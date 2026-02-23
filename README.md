@@ -1,21 +1,23 @@
 # ProBot
 
-  ProBot is a customizable chatbot built using Microsoft Azure. It is designed to be flexible and configurable, allowing developers to adapt the chatbot’s behavior, responses, and workflows to different use cases.
+  ProBot is a customizable chatbot service template built using Microsoft Azure, designed to improve online customer service for schools and businesses by automating FAQs, greetings, and 24/7 chat support. It acts as an intermediary system that reduces response time, operational costs, and support workload.
 
 ## Features
 
-  Customizable conversation logic and design
+- 24/7 automated chatbot service
 
-  Cloud-based deployment using Azure services
+- Canned responses for frequently asked questions
 
-  Scalable and modular chatbot architecture
+- Fully customizable chatbot behavior and design
 
-  Configurable responses and intents
+- Automated greetings and typo-tolerant interactions
+
+- Separate chatbot templates for Education and Business use cases
 
 ## Tech Stack
 
-  Cloud Platform: Microsoft Azure
+- Cloud Platform: Microsoft Azure
 
-  Backend: Azure services (e.g., Functions, Bot Services)
+- Backend: Azure services (e.g., Functions, Bot Services)
 
-  Fronend: HTML and CSS
+- Fronend: HTML and CSS
